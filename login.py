@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 while True:
     email = input("Enter email: ")
     if email == "ramackersjp@outlook.com":
